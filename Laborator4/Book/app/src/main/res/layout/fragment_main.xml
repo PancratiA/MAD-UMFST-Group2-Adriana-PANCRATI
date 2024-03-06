@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#355136"
+    tools:context=".FragmentMain">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="serif"
+                android:text="@string/book_title"
+                android:textAlignment="viewStart"
+                android:textAllCaps="true"
+                android:textColor="#F4EFBB"
+                android:textSize="48sp"
+                android:textStyle="bold|italic"
+                tools:text="@string/book_title" />
+
+            <TextView
+                android:id="@+id/textViewHook"
+                android:layout_width="match_parent"
+                android:layout_height="167dp"
+                android:fontFamily="@font/almendra_sc"
+                android:text="@string/description_hook"
+                android:textAlignment="viewEnd"
+                android:textColor="#FFFFFF"
+                android:textSize="34sp"
+                tools:text="@string/description_hook" />
+
+            <TextView
+                android:id="@+id/textViewDesciption"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="serif"
+                android:text="@string/description"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                tools:text="@string/description" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</FrameLayout>

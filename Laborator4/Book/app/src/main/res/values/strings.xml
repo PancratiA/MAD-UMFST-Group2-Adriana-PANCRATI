@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Book</string>
+    <string name="chapter1">Chapter 1 </string>
+    <string name="chapter2">Chapter 2</string>
+    <string name="chapter3">Chapter 3</string>
+    <string name="chapter4">Chapter 4</string>
+    <string name="book_author">by Phyllida Spore</string>
+    <string name="book_title">One Thousand Magical Herbs and Fungi</string>
+    <string name="description_hook">An essential reference guide to potion ingredients.</string>
+    <string name="description">&#09;One Thousand Magical Herbs and Fungi was written by the Herbologist and Hogwarts Headmistress Phyllida Spore, and, as its name implies, covered  different varieties of magical herbs and fungi found in the wizarding world.</string>
+    <string name="row1_name">Origin</string>
+    <string name="row2_name">Used In</string>
+    <string name="chapter1_name">Healing Herbs </string>
+    <string name="chapter1_subtitle1">Wiggentree Bark</string>
+    <string name="chapter1_subtitle1_attribute1">Wiggentrees</string>
+    <string name="chapter1_subtitle1_attribute2">Wiggenweld Potion</string>
+    <string name="chapter1_subtitle1_body">Physical contact with Wiggentree bark provided magical protection from being harmed by Dark creatures.For this reason it was used as a potion ingredient, particularly in the aptly named Wiggenweld Potion.\n\nThe fresher the bark was when used in potion-making, the more powerful its effects were, and only freshly-stripped bark could be used for the strongest Wiggenweld Potions.</string>
+    <string name="chapter1_subtitle1_body2"> Discovered by mistake by one of the greatest Sir Albus Dumbledor during his first year in a long reign of Headmastering.</string>
+    <string name="chapter1_subtitle2">Gillyweed</string>
+    <string name="chapter1_subtitle2_attribute1">Mediterranean See</string>
+    <string name="chapter1_subtitle2_attribute2">Underwater Breathing </string>
+    <string name="chapter1_subtitle2_body">\nGillyweed was a magical plant that, when eaten, allowed a human to breathe underwater. It was said to resemble a bundle of slimy, grey-green rat tails. When eaten, it gave the consumer gills, allowing them to breathe underwater, and webbing between the fingers and toes, allowing them to swim underwater with ease. Gillyweed was native to the Mediterranean Sea.\n\nWhen Gillyweed was eaten by a human, it gave them fish-like attributes, including gills to process oxygen from water, webbing between the fingers and toes for easier swimming, removing the need for blinking, and adapting to cold temperatures in water.</string>
+    <string name="chapter1_subtitle2_body3"> While under the effects of Gillyweed, one could not breathe air with their lungs. There was some debate among Herbologists as to the duration of the effects of Gillyweed in fresh water versus salt water, but in fresh water, a sprig of Gillyweed lasted for well over an hour.</string>
+    <string name="chapter1_subtitle2_body2">First discovered by Herbologist Beaumont Marjoribanks some time before 1845. But the magical properties of Gillyweed remained unknown until Elladora Ketteridge ate the plant and nearly suffocated</string>
+    <string name="c1_s2_img_description">The effects of Gillyweed on a human</string>
+
+
+    <string name="chapter1_subtitle3">Dittany</string>
+    <string name="chapter1_subtitle3_attribute1">Plains Feilds</string>
+    <string name="chapter1_subtitle3_attribute2">Healing Potions</string>
+    <string name="chapter1_subtitle3_body">Dittany was a magical plant used in Potion-making. It was a powerful healing herb and restorative. Its use made fresh skin grow over a wound and after application the wound seemed several days old.\n\nIf used in a mixture with silver, it could cure werewolf bites. It would prevent the victim from bleeding to death from the bite, but not cure them of lycanthropy.Shredded dittany was an ingredient in the creation of the Wiggenweld Potion.\n\n Also known as Burning Bush, it sometimes released flammable vapours. A sick baby may have been cured with the application of dittany.</string>
+    <string name="chapter1_subtitle3_body2">"Dittany is a powerful healing herb and restorative and may be eaten raw to cure shallow wounds."
+\n— S. Snape</string>
+
+
+
+
+    <string name="chapter2_name">Magical Fruits</string>
+    <string name="chapter2_subtitle1">Dirigible Plum</string>
+    <string name="chapter2_subtitle1_attribute1">England,Great Britain</string>
+    <string name="chapter2_subtitle1_attribute2">Enhances Acceptability</string>
+    <string name="chapter2_subtitle1_body">The Dirigible Plum was an orange radish-like magical fruit. Dirigible Plums grew upside-down on small bushes.\n\nSome, like Xenophilius Lovegood, believed Dirigible Plums enhanced the ability of one to accept the extraordinary. As such, on his stone bust of Rowena Ravenclaw, and in an attempt to recreate her lost diadem, he included this plant as part of the headdress. His daughter, Luna Lovegood, usually wore a pair of Dirigible Plums as earrings.
+\n\nThe Holiday Blancmange Severus Snape recalled enjoying in his youth used Dirigible Plums as ingredients. Snape also told Jacobs sibling that it was supposed to be good for ones health in small doses, as learned from Potions class. Dirigible Plums were grown in the Hogwarts greenhouses.
+    \n\nDirigible" means "able to be guided"; it is most commonly used in conjunction with airships, which have large motors to push them in the desired direction, instead of drifting before the wind as an unpowered balloon must. The word "dirigible" in the name of these plums could refer to their being shaped like airships, or to their guiding the thoughts of the wearer.</string>
+    <string name="chapter2_subtitle1_body2">Discovered by  Xenophilius Lovegood while explaining the elements of his replica of Rowena Ravenclaws Diadem</string>
+
+
+    <string name="chapter2_subtitle2">Snargaluff Fruit</string>
+    <string name="chapter2_subtitle2_attribute1">Scotland,Great Britain</string>
+    <string name="chapter2_subtitle2_attribute2">Weaponized Herbology</string>
+    <string name="chapter2_subtitle2_body">Snargaluff is a peculiar and dangerous plant known for its unique properties. Characterized by its thorny exterior and spherical shape, the Snargaluff is native to the rainforests of the wizarding world. One of its most distinctive features is its ability to mimic the surrounding environment, blending seamlessly with its surroundings to deceive unsuspecting passersby. This camouflage serves as a defense mechanism, allowing the Snargaluff to ambush and ensnare prey.
+        \n\n\The Snargaluff is notorious for its powerful and enchanted thorns, which are capable of delivering a potent and debilitating poison upon contact. Wizards and witches are cautioned to approach the plant with extreme care, as its venomous nature can cause severe injuries or even prove fatal if not treated promptly. Due to these dangers, Snargaluffs are often kept in magical gardens or protected areas by skilled herbologists who understand their needs and can handle them safely.
+        \n\nDespite its hazardous characteristics, the Snargaluff is prized for its valuable magical properties. Certain parts of the plant, when properly harvested and processed, are used in the creation of potions and spell ingredients. The magical community recognizes the need for careful cultivation and controlled harvesting to ensure sustainable use of the Snargaluff, balancing its utility with the potential risks it poses. In the wizarding world, the Snargaluff stands as a fascinating yet perilous example of the intricate and often unpredictable nature of magical flora.</string>
+    <string name="chapter2_subtitle2_body2">Discovered by P. Spore during her explorations in magical rainforests.
+</string>
+
+
+
+
+    <string name="chapter3_name">Venomous Plants</string>
+
+    <string name="chapter3_subtitle1">Devil Snare</string>
+    <string name="chapter3_subtitle1_attribute1">Scotland,Great Britain</string>
+    <string name="chapter3_subtitle1_attribute2">Defensive Weapon</string>
+    <string name="chapter3_subtitle1_body">Devils Snare was a magical plant with the ability to constrict or strangle anything in its surrounding environment or something that happened to touch it. Devils Snare did not seem to be common, but certain Herbologists had access to it.\n\nIt was composed of a mass of soft, springy tendrils and vines that possessed some sense of touch, and resembled the Flitterbloom.This plant used its creepers and tendrils to ensnare anyone who touched it, binding their arms and legs and eventually choking them. The harder a person struggled against Devils Snare, the faster and more tightly it bound them. If the victim was able to maintain their presence of mind and relaxed, the Snare would relax its grip on them. Struggling or resistance to Devils Snare would cause the plant to exert a greater force of constriction.\n\n Devils Snare preferred a dark, damp environment. It would stop its movement in the environment in front of bright light and would recoil away from the heat of fire, so a well-placed fire or light based spell such as the Bluebell Flames, Fire-Making Spell, Wand-Lighting Charm or Lumos Solem Spell would effectively drive it away from its victims.</string>
+    <string name="chapter3_subtitle1_body2">Merula Snyde: "A deadly plant called Devil's Snare. Some fourth-year Slytherins showed it to me when I first arrived."</string>
+
+    <string name="chapter3_subtitle2">Venomous Tentacula</string>
+    <string name="chapter3_subtitle2_attribute1">Unknown</string>
+    <string name="chapter3_subtitle2_attribute2">Defense Pets</string>
+    <string name="chapter3_subtitle2_body">The Venomous Tentacula expelled venom from its shoots, and its spikes were deadly. Its bite was highly venomous and could easily stun or kill. Its juice was also a less than lethal poison.
+\n\nThis dangerous plant was used for student research in Herbology classes at Hogwarts School of Witchcraft and Wizardry,and they were taught and handled practically in the sixth year.Students were permitted to swear loudly if a Tentacula tried to strangle them during lessons.
+\n\nThe Venomous Tentacula had a giant eyeless head with fangs, though the shape of its mouth tended to vary, along with the many leaves surrounding it. It also had many large vines as appendages that acted like arms, which may or may not have also had separate heads of their own at the ends. The Severing Charm could be used to both stun the plant and sever its vines.</string>
+
+    <string name="chapter3_subtitle2_body2"> First discovered by the pioneering herbologist Beaumont Marjoribanks during his daring expedition into uncharted magical jungles.</string>
+
+    <string name="chapter3_subtitle3">Mandrake</string>
+    <string name="chapter3_subtitle3_attribute1">Unknown</string>
+    <string name="chapter3_subtitle3_attribute2">Restorative Draught:</string>
+    <string name="chapter3_subtitle3_body">A Mandrake, also known as Mandragora, was a magical and sentient plant which had a root that looked like a human (like a baby when the plant is young, but maturing as the plant grows). When matured, its cry could be fatal to any person who heard it.
+    \n\nWhenever unearthed, the root screamed. The scream of a mature Mandrake when it was unearthed was powerful enough to break glass and would kill any person who hears it, but a young Mandrake screams would usually only knock a person out for several hours. They stopped screaming once they were replanted in the soil. When Hogwarts students studied Mandrakes in Herbology class, Professor Pomona Sprout had her students wear earmuffs to protect their ears from the Mandrakes cries. Professor Mirabel Garlick had her students put cotton in their ears in the late 19th century.</string>
+    <string name="chapter3_subtitle3_body2">First Unearthed by an army of Soilders in a cave near the Magical Prison of Azkaban while on their daily prowl.</string>
+
+
+
+    <string name="chapter4_name">Enchanting Mycology-Fungi</string>
+    <string name="chapter4_body">  </string>
+    <string name="chapter4_subtitle1">Everflame MushroomsAAAGlowspore ShroomsAA</string>
+    <string name="chapter4_subtitle1_attribute1">Everflame Forests</string>
+    <string name="chapter4_subtitle1_attribute2">Light Procuring</string>
+    <string name="chapter4_subtitle1_body">Everflame Mushrooms, with their perpetual glow, are primarily used in magical lanterns and ambient lighting solutions in the wizarding world. Wizards and witches harvest these mushrooms and incorporate them into lantern designs, creating portable sources of light that dont require traditional flame or continuous spellcasting. The gentle and constant illumination from Everflame Mushrooms is particularly useful in situations where a subtle and enduring light source is needed, such as during nighttime travels, exploration of dark magical environments, or when avoiding disturbing magical creatures that may be sensitive to bright lights. The mushrooms magical properties make them a practical and eco-friendly alternative to conventional lighting methods in certain wizarding applications.
+\n\nEverflame Mushrooms have additional applications beyond lighting. Their magical essence can be extracted and used in the creation of luminescent pigments for magical artwork and spell scrolls. The gentle glow emitted by the mushrooms adds an enchanting quality to illustrations and inscriptions, making them visually appealing and easier to read in low-light conditions.
+\n\nSome magical herbalists and potion-makers also experiment with incorporating Everflame Mushroom essence into certain potions. While the mushrooms themselves are generally safe for consumption, their magical properties might enhance the effects of potions designed to provide illumination, clarity, or a calming atmosphere.</string>
+    <string name="chapter4_subtitle1_body2">Legend has it that Seraphina stumbled upon the Everflame Mushroom  while searching for a rare herb.</string>
+
+
+    <string name="chapter4_subtitle2">Bursting Mushrooms</string>
+    <string name="chapter4_subtitle2_attribute1">Unicorn Grove</string>
+    <string name="chapter4_subtitle2_attribute2">Potion Ingredient</string>
+    <string name="chapter4_subtitle2_body">Bursting mushrooms were a type of large magical mushroom with a white stalk and red and white spotted cap. When disturbed, a bursting mushroom would swell and shrink rapidly before violently exploding with enough force to harm a human. After presumably being deactivated in some fashion, sliced bursting mushrooms could be used as a potion ingredient in such potions as the Fire Protection Potion. Bursting mushrooms grew in forests such as the Forbidden Forest in Scotland.
+\n\nOne could protect themselves from the explosion of these mushrooms using the Shield Charm, after which they could be safely harvested at no threat to the gatherer.
+        \n\nSome Gryffindor students made a game of trying to collect bursting mushrooms. At one point, an unidentified Gryffindor student nearly died whilst trying to collect some of these mushrooms, an event which was remembered by Nearly-Headless Nick some years later.
+    </string>
+    <string name="chapter4_subtitle2_body2">Bursting mushrooms, along with Salamander blood and wartcap powder, were the three primary ingredients in a Fire Protection Potion</string>
+
+
+</resources>
