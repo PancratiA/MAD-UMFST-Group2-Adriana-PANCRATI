@@ -10,10 +10,6 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     public int counter=0;
-
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -25,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         btnToast.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                textview.setText(":)");
+                textview.setText("Felicitari!");
                 counter=0;
             }
         });
