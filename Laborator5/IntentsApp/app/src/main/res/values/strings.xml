@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentsApp</string>
+    <string name="buna_dimineata">Buna Dimineata!!</string>
+    <string name="button1">Buna!</string>
+    <string name="button2">Google</string>
+    <string name="button3">Call Friend</string>
+</resources>
